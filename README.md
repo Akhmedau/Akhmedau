@@ -41,7 +41,7 @@
 <a href="https://github.com/Akhmedau" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/Akhmedau" target="_blank">
+<a href="akhmiedov.199629@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%232E87FB.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
 </div>  
