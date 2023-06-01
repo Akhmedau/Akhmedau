@@ -1,7 +1,7 @@
 ### <div align="center">I´m Nikolay, iOS Software engineer👨‍💻 📱</div>  
   
 
-- 💼 At the moment I am developing Rev-1, WroGuide, AUTO projects  
+- 💼 At the moment I am developing Rev-1, WroGuide, AUTY projects  
   
 
 - 💥 Rev-1 should speed up the development process and give hints to novice developers  
