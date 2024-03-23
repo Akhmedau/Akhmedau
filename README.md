@@ -52,7 +52,7 @@
 ## Stats
   
 <div align=center>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhmedau)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhmedau)](https://github.com/Akhmedau)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhmedau&layout=compact)
   
 </div>
