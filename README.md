@@ -52,8 +52,7 @@
 ## Recent Blog Posts  
   
   <div align="center">
-<a href="https://medium.com/@akhmiedov.199629" target="_blank"> </a>
-<img src=https://img.shields.io/badge/-medium-blue alt=medium style="margin-bottom: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact/>&nbsp
   </div>
 <br/>  
 
