@@ -52,7 +52,7 @@
 ## Recent Blog Posts  
   
   <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact/>&nbsp
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhmedau&layout=compact/>&nbsp
   </div>
 <br/>  
 
